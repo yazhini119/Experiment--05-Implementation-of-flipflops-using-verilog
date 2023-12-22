@@ -1,3 +1,9 @@
+```
+Name : Rajalakshmi R
+Reg No : 212223110037
+```
+
+
 # Exp-05 Implementation of flipflops using verilog
 ### AIM: 
 To implement all the flipflops using verilog and validating their functionality using their functional tables
